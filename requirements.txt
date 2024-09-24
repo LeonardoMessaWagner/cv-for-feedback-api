@@ -1,6 +1,6 @@
 Flask
-# opencv-python
-# mediapipe
-# fer
-# matplotlib
+opencv-python-headless
+mediapipe
+fer
+matplotlib
 gunicorn
