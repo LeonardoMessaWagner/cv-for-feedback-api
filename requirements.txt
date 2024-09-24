@@ -4,4 +4,5 @@ mediapipe
 fer
 matplotlib
 gunicorn
-tensorflow
+tensorflow-cpu
+numpy
