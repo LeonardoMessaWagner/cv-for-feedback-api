@@ -3,6 +3,7 @@ import os
 import cv2
 from fer import FER
 import numpy as np
+from flask_cors import CORS
 
 app = Flask(__name__)
 CORS(app)
