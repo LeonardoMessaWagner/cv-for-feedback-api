@@ -4,3 +4,4 @@ mediapipe
 fer
 matplotlib
 gunicorn
+tensorflow
