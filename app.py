@@ -5,6 +5,7 @@ from fer import FER
 import numpy as np
 
 app = Flask(__name__)
+CORS(app)
 
 # Definir a pasta para armazenar uploads
 UPLOAD_FOLDER = 'uploads/'

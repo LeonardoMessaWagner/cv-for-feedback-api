@@ -1,8 +1,9 @@
 Flask
-opencv-python-headless
 mediapipe
 fer
 matplotlib
 gunicorn
-tensorflow-cpu
 numpy
+Flask-CORS
+opencv-python-headless
+tensorflow-cpu
